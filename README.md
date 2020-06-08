@@ -16,14 +16,16 @@
 # Projeto Ecoleta
 Projeto desenvolvido durante a primeira [NextLevelWeek](https://nextlevelweek.com/) da [Rocketseat](https://rocketseat.com.br) para aplicar os conceitos de `typescript`, `Node.js`, `ReactJS` e `React Native`.
 
+<h1 align="center">
+    <img alt="Next Lvl Week" src="ecoleta.png"/>
+</h1>
+
 em homenagem à semana internacional do meio ambiente que coincidiu com o período da realização da Next Level Week 1.0. o Ecoleta é uma aplicação completa (backend, frontend e mobile) para atender a demanda de logistica da coleta de resíduos. Em outras palavras. 
   
   [Começando](#começando)&nbsp;&nbsp;|&nbsp;&nbsp;
   [Instalação](#instalação)&nbsp;&nbsp;|&nbsp;&nbsp;
   [Execução](#execução)&nbsp;&nbsp;|&nbsp;&nbsp;
   [Tecnologias](#tecnologias)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Preview](#preview)&nbsp;&nbsp;|&nbsp;&nbsp;
-  [Licença](#licença)  
 
 ## Começando
 As instruções a seguir são para fornecer uma cópia deste projeto que poderá ser executada na sua máquina local para fins de desenvolvimento e teste.
@@ -120,11 +122,5 @@ Abra em seu smartphone o aplicativo Expo e escaneie o código de barras exibido 
 * [typescript](https://www.typescriptlang.org/) - Usado para melhorar a integridade do código final e auxiliar o desenvolvimento em equipe
 
 Confira a lista completa de tecnologias utilizadas no arquivo `package.json`, presente na pasta raiz de cada parte do projeto.
-
-## Preview
-<h1 align="center">
-    <img alt="Next Lvl Week" src="ecoleta.png"/>
-</h1>
-
 
 Feito com 💚 por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/) 
