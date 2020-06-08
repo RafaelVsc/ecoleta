@@ -49,7 +49,7 @@ Instalando as dependências do backend da aplicação:
 cd server
 npm install
 ```
-Veja os [detalhes de configuração](./server/README.md) do Backend para criar as variáveis de ambiente necessárias.
+Veja os [detalhes de configuração](./server/README.md) do Backend.
 
 ### Frontend
 
@@ -59,7 +59,7 @@ Instalando as dependências do frontend da aplicação:
 cd ../web
 npm install
 ```
-Veja os [detalhes de configuração](./web/README.md) do Frontend para criar as variáveis de ambiente necessárias.
+Veja os [detalhes de configuração](./web/README.md) do Frontend.
 
 ### Mobile
 
@@ -69,7 +69,7 @@ Instalando as dependências da aplicação mobile:
 cd ../mobile
 npm install
 ```
-Veja os [detalhes de configuração](./mobile/README.md) da Aplicação Mobile para criar as variáveis de ambiente necessárias.
+Veja os [detalhes de configuração](./mobile/README.md) da Aplicação Mobile.
 
 ## Execução
 Toda a aplicação pode ser inicializada em ambiente de desenvolvimento com facilidade, seguindo as instruções abaixo:
@@ -77,7 +77,7 @@ Toda a aplicação pode ser inicializada em ambiente de desenvolvimento com faci
 ### Backend
 A primeira parte que deve ser executada no ambiente de desenvolvimento é o servidor `node.js`. 
 
-Certifique-se de que está dentro da pasta `server` do projeto em seu terminal e que você já configurou as [variáveis de ambiente](./server/README.md) corretamente, em seguida execute o comando abaixo para inicializá-lo:
+Certifique-se de que está dentro da pasta `server` do projeto em seu terminal, em seguida execute o comando abaixo para inicializá-lo:
 
 ```bash
 npm run dev
@@ -86,7 +86,7 @@ npm run dev
 ### Frontend
 Este é o site `ReactJS` onde os pontos de coleta são cadastrados. É necessário que o backend já esteja operacional. 
 
-Certifique-se de que está dentro da pasta `web` do projeto em seu terminal e que você já configurou as [variáveis de ambiente](./web/README.md) corretamente, em seguida execute o comando abaixo para inicializá-lo:
+Certifique-se de que está dentro da pasta `web` do projeto em seu terminal, em seguida execute o comando abaixo para inicializá-lo:
 
 ```bash
 npm start
@@ -94,7 +94,7 @@ npm start
 ### Mobile
 Nesta parte você irá inicializar a aplicação mobile, escrita com `React Native` onde os pontos de coleta podem ser consultados por cidade. Esta parte funciona independente do Frontend, porém é necessário que o backend já esteja operacional. 
 
-Certifique-se de que está dentro da pasta `mobile` do projeto em seu terminal e que você já configurou as [variáveis de ambiente](./mobile/README.md) corretamente, em seguida execute o comando abaixo para inicializá-lo:
+Certifique-se de que está dentro da pasta `mobile` do projeto em seu terminal, em seguida execute o comando abaixo para inicializá-lo:
 
 ```bash
 npm start
@@ -122,10 +122,9 @@ Abra em seu smartphone o aplicativo Expo e escaneie o código de barras exibido 
 Confira a lista completa de tecnologias utilizadas no arquivo `package.json`, presente na pasta raiz de cada parte do projeto.
 
 ## Preview
-EM BREVE!
-## Licença
-
-Este projeto foi desenvovido sob a licença MIT. Veja o [LICENSE](./LICENSE) para detalhes.
+<h1 align="center">
+    <img alt="Next Lvl Week" src="ecoleta.png"/>
+</h1>
 
 
 Feito com 💚 por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/) 
