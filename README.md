@@ -1,6 +1,6 @@
-<p align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/39415174/83923322-5f890f80-a758-11ea-88fa-9df8c50630b9.png" width="160px" />
-</p>
+<h1 align="center">
+    <img alt="Next Lvl Week" src="logo.png" width="160px" />
+</h1>
 <p align="center">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelVsc/ecoleta?style=plastic" />
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RafaelVsc/ecoleta?color=brightgreen&style=plastic" />    
