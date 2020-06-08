@@ -1,3 +1,18 @@
+<p align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/39415174/83923322-5f890f80-a758-11ea-88fa-9df8c50630b9.png" width="160px" />
+</p>
+<p align="center">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelVsc/ecoleta?style=plastic" />
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RafaelVsc/ecoleta?color=brightgreen&style=plastic" />    
+  <a href="https://www.linkedin.com/in/rafael-vescio/">
+    <img alt="Made by Rafael Vescio" src="https://img.shields.io/badge/made%20by-RafaelVsc-important?style=plastic">
+  </a>
+  <a href="https://github.com/RafaelVsc/ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RafaelVsc/ecoleta?style=plastic">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-informational?style=plastic">
+</p>
+
 # Projeto Ecoleta
 Projeto desenvolvido durante a primeira [NextLevelWeek](https://nextlevelweek.com/) da [Rocketseat](https://rocketseat.com.br) para aplicar os conceitos de `typescript`, `Node.js`, `ReactJS` e `React Native`.
 
@@ -113,4 +128,4 @@ EM BREVE!
 Este projeto foi desenvovido sob a licença MIT. Veja o [LICENSE](./LICENSE) para detalhes.
 
 
-Feito com ♥ por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/)
+Feito com 💚 por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/) 
